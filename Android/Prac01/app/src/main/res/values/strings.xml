@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prac01</string>
+    <string name="txtNom">Nombre</string>
+    <string name="txtApellidos">Apellidos</string>
+    <string name="txtEdad">Edad</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="checkBox">Permites compartir la información</string>
+    <string name="btnEnviar">Enviar</string>
+</resources>
