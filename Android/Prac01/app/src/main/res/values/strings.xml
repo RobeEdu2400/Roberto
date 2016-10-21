@@ -6,4 +6,5 @@
     <string name="txtNombre">Nombre</string>
     <string name="checkBox">Permites compartir la información</string>
     <string name="btnEnviar">Enviar</string>
+    <string name="txtNom2">Nombre:</string>
 </resources>

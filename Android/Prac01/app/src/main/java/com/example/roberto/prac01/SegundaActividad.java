@@ -13,14 +13,14 @@ public class SegundaActividad extends AppCompatActivity {
 
         TextView textView = (TextView) findViewById(R.id.textView);
         Bundle b = getIntent().getExtras();
-        textView.setText(b.getString("Nom"));
+        textView.setText("Nombre: "+b.getString("Nom"));
 
 
         TextView textView2= (TextView) findViewById(R.id.textView2);
-        textView2.setText(b.getString("Apellidos"));
+        textView2.setText("Apellidos: "+ b.getString("Apellidos"));
 
         TextView textView3= (TextView) findViewById(R.id.textView3);
-        textView3.setText(b.getString("Edad"));
+        textView3.setText("Edad: "+b.getString("Edad"));
 
         TextView textView4= (TextView) findViewById(R.id.textView4);
 
